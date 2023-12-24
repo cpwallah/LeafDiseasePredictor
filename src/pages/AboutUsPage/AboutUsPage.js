@@ -9,7 +9,7 @@ const AboutUsPage = ({ variants, transition }) => {
     {
       name: "Vibhor Joshi",
       email: "vibhorjoshi40@gmail.com",
-      role: "ML Developer / Backened Developer",
+      role: "ML Developer / Backend Developer",
       github: "https://github.com/vibhorjoshi",
       linkedin: "https://www.linkedin.com/in/vibhor-joshi-b32138243/"
     },
